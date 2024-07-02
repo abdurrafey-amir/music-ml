@@ -1,521 +1,521 @@
-Age,Gender,fav_music_genre,music_time_slot,music_Influencial_mood,music_lis_frequency
-20-35,Female,Melody,Night,Sadness or melancholy,leisure time
-12-20,Male,Rap,Afternoon,Social gatherings or parties,Workout session
-35-60,Others,Pop,Night,Relaxation and stress relief,"Study Hours, While Traveling"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","Office hours, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Male,Pop,Night,Uplifting and motivational,Workout session
-20-35,Female,Melody,Morning,Relaxation and stress relief,Office hours
-20-35,Female,Melody,Night,Social gatherings or parties,leisure time
-20-35,Female,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, Workout session"
-20-35,Female,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,Office hours
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling"
-20-35,Female,Pop,Morning,Relaxation and stress relief,Office hours
-20-35,Female,Pop,Afternoon,"Relaxation and stress relief, Uplifting and motivational","Office hours, While Traveling, leisure time"
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Social gatherings or parties,Social gatherings 
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,Sadness or melancholy,"While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time"
-20-35,Male,"Classical & melody, dance",Morning,Relaxation and stress relief,Office hours
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Male,Rock,Night,"Relaxation and stress relief, Sadness or melancholy",Study Hours
-20-35,Female,Pop,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time"
-20-Dec,Male,Rap,Morning,Relaxation and stress relief,"Office hours, While Traveling, Workout session"
-35-60,Male,Old songs,Night,Relaxation and stress relief,leisure time
-20-35,Female,Pop,Night,Relaxation and stress relief,"Office hours, While Traveling"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,While Traveling
-20-35,Male,Pop,Night,Relaxation and stress relief,Office hours
-20-Dec,Male,Pop,Night,Uplifting and motivational,Workout session
-20-Dec,Male,Pop,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time"
-20-Dec,Male,Rap,Night,Uplifting and motivational,Workout session
-20-35,Female,Pop,Morning,Uplifting and motivational,"Office hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-Dec,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-Dec,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, leisure time"
-20-Dec,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-Dec,Male,Pop,Night,Relaxation and stress relief,"While Traveling, Workout session"
-20-Dec,Female,Pop,Night,Uplifting and motivational,"Study Hours, Workout session, leisure time"
-20-Dec,Male,classical,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Office hours, While Traveling, "
-20-35,Male,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-Dec,Male,classical,Afternoon,Sadness or melancholy,"While Traveling, Workout session"
-35-60,Male,Melody,Morning,Sadness or melancholy,"While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Male,Electronic/Dance,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Male,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-Dec,Female,Pop,Night,Relaxation and stress relief,leisure time
-20-35,Male,Rap,Night,"Relaxation and stress relief, Sadness or melancholy",Office hours
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Social gatherings or parties","Office hours, While Traveling, leisure time"
-20-Dec,Female,All,Morning,"Relaxation and stress relief, Uplifting and motivational","Workout session, leisure time"
-20-35,Male,classical,Afternoon,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Pop,Morning,Relaxation and stress relief,"While Traveling, Workout session"
-20-35,Male,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Male,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time"
-20-35,Male,Pop,Night,Uplifting and motivational,leisure time
-20-35,Male,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-Dec,Male,Rap,Afternoon,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Male,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational",Office hours
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time"
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, Workout session"
-20-35,Female,Electronic/Dance,Afternoon,Uplifting and motivational,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time
-20-35,Female,Melody,Morning,Social gatherings or parties,"Office hours, While Traveling, leisure time"
-20-Dec,Female,Melody,Afternoon,Uplifting and motivational,While Traveling
-20-35,Others,Rap,Afternoon,"Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Female,Rap,Night,Sadness or melancholy,Study Hours
-35-60,Male,Pop,Afternoon,Social gatherings or parties,Workout session
-20-Dec,Female,Melody,Afternoon,Sadness or melancholy,While Traveling
-20-Dec,Female,classical,Afternoon,Uplifting and motivational,Study Hours
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,leisure time
-20-Dec,Female,Rap,Morning,Relaxation and stress relief,Study Hours
-35-60,Male,classical,Night,Relaxation and stress relief,leisure time
-20-Dec,Others,Melody,Morning,Uplifting and motivational,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Male,Rap,Morning,Sadness or melancholy,While Traveling
-20-Dec,Male,Rap,Afternoon,Uplifting and motivational,Study Hours
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Electronic/Dance,Night,Relaxation and stress relief,Office hours
-35-60,Others,classical,Morning,Uplifting and motivational,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time, Night time, when cooking"
-20-35,Female,classical,Night,Relaxation and stress relief,Office hours
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-Dec,Female,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time"
-20-35,Male,Rap,Night,"Relaxation and stress relief, Uplifting and motivational",Office hours
-20-35,Male,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Social gatherings or parties",leisure time
-20-35,Male,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Pop,Afternoon,Relaxation and stress relief,Office hours
-20-35,Male,classical,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Morning,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time"
-20-35,Female,Melody,Night,Sadness or melancholy,leisure time
-20-35,Male,Pop,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, While Traveling"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,Relaxation and stress relief,leisure time
-20-35,Female,Pop,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Male,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational",While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Kpop,Night,Relaxation and stress relief,"Office hours, While Traveling, Workout session"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session, leisure time"
-20-35,Male,classical,Night,Relaxation and stress relief,leisure time
-20-35,Male,All,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational",leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling, leisure time"
-20-35,Male,Pop,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time"
-20-35,Female,Pop,Night,Uplifting and motivational,"While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Workout session, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Office hours, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,"While Traveling, leisure time"
-20-Dec,Female,Melody,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",While Traveling
-20-35,Female,Pop,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time"
-20-35,Female,Electronic/Dance,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-35,Male,Rap,Night,"Relaxation and stress relief, Uplifting and motivational",leisure time
-20-35,Female,Melody,Morning,Relaxation and stress relief,leisure time
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session, leisure time"
-20-35,Male,Rap,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session"
-35-60,Male,Melody,Night,Uplifting and motivational,"While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Male,Rock,Night,Relaxation and stress relief,leisure time
-20-35,Female,Pop,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Male,Melody,Night,Relaxation and stress relief,While Traveling
-35-60,Female,classical,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,Relaxation and stress relief,"Workout session, leisure time"
-20-35,Male,Pop,Night,Relaxation and stress relief,While Traveling
-20-Dec,Male,Melody,Afternoon,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Male,Melody,Afternoon,Relaxation and stress relief,"Office hours, While Traveling, leisure time"
-20-35,Female,Electronic/Dance,Night,Relaxation and stress relief,leisure time
-20-35,Female,Pop,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time"
-20-35,Female,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,Uplifting and motivational,Workout session
-20-35,Female,Melody,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational",leisure time
-20-35,Male,Pop,Night,Uplifting and motivational,Study Hours
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Male,Electronic/Dance,Night,Relaxation and stress relief,leisure time
-20-35,Male,classical,Night,Relaxation and stress relief,While Traveling
-20-35,Male,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session"
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, While Traveling"
-20-35,Male,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Pop,Morning,Uplifting and motivational,"While Traveling, Workout session"
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time"
-20-Dec,Female,classical,Morning,Sadness or melancholy,While Traveling
-20-35,Female,Rap,Afternoon,"Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session"
-20-Dec,Female,classical,Afternoon,Uplifting and motivational,While Traveling
-20-Dec,Female,Rap,Morning,Uplifting and motivational,While Traveling
-20-Dec,Female,classical,Afternoon,Sadness or melancholy,"While Traveling, leisure time"
-20-35,Female,classical,Morning,Uplifting and motivational,While Traveling
-20-35,Female,classical,Morning,Uplifting and motivational,Workout session
-20-Dec,Female,classical,Afternoon,Sadness or melancholy,"Study Hours, While Traveling"
-12-Jun,Female,classical,Morning,Uplifting and motivational,"Study Hours, While Traveling"
-20-35,Female,classical,Morning,Uplifting and motivational,Workout session
-35-60,Male,Melody,Morning,Sadness or melancholy,Workout session
-20-Dec,Male,Rap,Morning,Relaxation and stress relief,"While Traveling, Workout session"
-20-Dec,Female,classical,Afternoon,Uplifting and motivational,"While Traveling, leisure time"
-20-35,Female,classical,Afternoon,"Uplifting and motivational, Sadness or melancholy","Study Hours, Workout session"
-20-35,Female,classical,Afternoon,Relaxation and stress relief,While Traveling
-35-60,Female,classical,Afternoon,Uplifting and motivational,"Study Hours, Workout session"
-20-35,Female,classical,Morning,Uplifting and motivational,While Traveling
-20-Dec,Female,classical,Morning,"Uplifting and motivational, Sadness or melancholy",Workout session
-35-60,Others,Electronic/Dance,Morning,Uplifting and motivational,"Study Hours, Workout session"
-20-35,Female,Rap,Morning,Uplifting and motivational,While Traveling
-20-35,Others,classical,Morning,Social gatherings or parties,While Traveling
-35-60,Female,Melody,Night,Social gatherings or parties,While Traveling
-20-Dec,Male,Melody,Night,Relaxation and stress relief,leisure time
-35-60,Male,Melody,Night,Uplifting and motivational,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Male,trending songs random,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Male,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time"
-35-60,Female,Melody,Morning,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-35-60,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Electronic/Dance,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Pop,Night,Uplifting and motivational,"While Traveling, leisure time"
-20-35,Male,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Male,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, Study Hours, While Traveling, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",While Traveling
-20-35,Male,classical,Morning,Relaxation and stress relief,"Study Hours, While Traveling, leisure time"
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-35,Male,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session"
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Male,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,classical,Night,"Relaxation and stress relief, Uplifting and motivational",leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,"Study Hours, While Traveling"
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session"
-20-35,Male,classical,Night,Relaxation and stress relief,"Office hours, While Traveling, Workout session"
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Male,Pop,Night,Relaxation and stress relief,While Traveling
-20-35,Male,Rock,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,Workout session
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Rap,Afternoon,"Relaxation and stress relief, Uplifting and motivational",While Traveling
-20-35,Male,Melody,Morning,Relaxation and stress relief,"Office hours, Workout session"
-20-35,Male,Pop,Night,Relaxation and stress relief,While Traveling
-20-35,Male,Melody,Morning,Relaxation and stress relief,Workout session
-20-35,Male,Melody,Morning,"Relaxation and stress relief, Sadness or melancholy",While Traveling
-20-35,Female,Pop,Night,"Relaxation and stress relief, Sadness or melancholy",While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,"Study Hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,classical,Night,Uplifting and motivational,"While Traveling, Workout session"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Sadness or melancholy,leisure time
-20-35,Female,All,Night,Uplifting and motivational,leisure time
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,Workout session
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, Workout session"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Pop,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time"
-20-Dec,Male,classical,Night,Social gatherings or parties,leisure time
-20-Dec,Male,classical,Night,Social gatherings or parties,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,Study Hours
-20-35,Male,Pop,Night,Relaxation and stress relief,"Office hours, Workout session"
-20-35,Male,Melody,Afternoon,Relaxation and stress relief,"Office hours, Study Hours, While Traveling"
-20-35,Female,Melody,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time"
-20-35,Male,All,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",Random 
-20-35,Female,Pop,Morning,"Uplifting and motivational, Sadness or melancholy","Office hours, While Traveling, Workout session"
-20-35,Female,Melody,Morning,Relaxation and stress relief,Workout session
-20-35,Female,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Male,Rap,Morning,Relaxation and stress relief,Office hours
-20-35,Female,Pop,Morning,Relaxation and stress relief,While Traveling
-20-Dec,Male,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Female,Electronic/Dance,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,Relaxation and stress relief,leisure time
-20-35,Female,Kpop,Night,Uplifting and motivational,"Study Hours, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,"Study Hours, While Traveling"
-20-35,Female,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,"While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Pop,Afternoon,Social gatherings or parties,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,classical,Morning,Uplifting and motivational,Workout session
-20-Dec,Female,classical,Afternoon,Sadness or melancholy,While Traveling
-20-35,Female,classical,Afternoon,Sadness or melancholy,While Traveling
-20-Dec,Female,Rap,Afternoon,Sadness or melancholy,Study Hours
-20-35,Female,classical,Afternoon,Sadness or melancholy,While Traveling
-20-35,Female,Rap,Morning,Uplifting and motivational,While Traveling
-20-Dec,Female,classical,Morning,Uplifting and motivational,Study Hours
-20-Dec,Female,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time"
-20-Dec,Female,Rap,Morning,Sadness or melancholy,Workout session
-20-35,Female,classical,Afternoon,Sadness or melancholy,Workout session
-20-35,Female,classical,Afternoon,Sadness or melancholy,"Study Hours, While Traveling, leisure time"
-20-35,Female,Rap,Morning,Uplifting and motivational,"While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Afternoon,"Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, Workout session"
-20-35,Others,classical,Afternoon,Uplifting and motivational,"Study Hours, While Traveling, Workout session"
-20-35,Female,classical,Morning,"Uplifting and motivational, Sadness or melancholy","Office hours, Study Hours, While Traveling"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Study Hours, While Traveling, Workout session"
-20-35,Female,classical,Afternoon,"Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, Workout session"
-20-35,Female,classical,Morning,"Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, Workout session"
-20-Dec,Female,Rap,Afternoon,"Relaxation and stress relief, Sadness or melancholy","Office hours, Study Hours, While Traveling"
-20-Dec,Female,classical,Afternoon,Social gatherings or parties,"Study Hours, While Traveling"
-20-35,Female,classical,Afternoon,Sadness or melancholy,While Traveling
-35-60,Female,classical,Morning,Uplifting and motivational,While Traveling
-35-60,Female,Pop,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, Workout session"
-35-60,Female,Melody,Afternoon,Uplifting and motivational,While Traveling
-20-35,Female,classical,Afternoon,Sadness or melancholy,Workout session
-20-Dec,Female,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, Workout session"
-20-35,Female,classical,Night,Sadness or melancholy,Workout session
-20-Dec,Female,Rap,Afternoon,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-35-60,Female,Rap,Afternoon,Uplifting and motivational,While Traveling
-20-35,Female,Rap,Afternoon,"Uplifting and motivational, Sadness or melancholy",Study Hours
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, While Traveling, Workout session"
-20-35,Female,Rap,Morning,Uplifting and motivational,While Traveling
-20-35,Female,classical,Night,Sadness or melancholy,While Traveling
-20-35,Female,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, Study Hours, While Traveling"
-20-35,Female,classical,Afternoon,"Relaxation and stress relief, Uplifting and motivational",Office hours
-20-35,Female,Rap,Afternoon,Uplifting and motivational,Workout session
-20-35,Female,classical,Afternoon,Sadness or melancholy,"Office hours, While Traveling, Workout session"
-20-35,Female,Rap,Afternoon,Uplifting and motivational,"Study Hours, While Traveling, Workout session"
-20-35,Female,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational","Study Hours, Workout session"
-20-Dec,Female,classical,Afternoon,"Uplifting and motivational, Sadness or melancholy",Workout session
-20-35,Female,Melody,Morning,"Uplifting and motivational, Social gatherings or parties","Office hours, Study Hours, While Traveling"
-20-35,Others,classical,Afternoon,Uplifting and motivational,While Traveling
-20-Dec,Female,classical,Afternoon,"Uplifting and motivational, Sadness or melancholy",While Traveling
-20-35,Female,Melody,Afternoon,Sadness or melancholy,While Traveling
-20-35,Female,Melody,Afternoon,Sadness or melancholy,Workout session
-20-35,Female,Rap,Afternoon,Sadness or melancholy,While Traveling
-20-Dec,Female,classical,Morning,Sadness or melancholy,While Traveling
-20-Dec,Female,classical,Afternoon,Sadness or melancholy,"While Traveling, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Social gatherings or parties",leisure time
-20-35,Female,Pop,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",leisure time
-20-35,Female,classical,Morning,"Relaxation and stress relief, Uplifting and motivational","Study Hours, While Traveling, leisure time"
-20-35,Female,classical,Night,Sadness or melancholy,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, Study Hours, While Traveling"
-20-35,Male,Pop,Night,Relaxation and stress relief,"While Traveling, Before bed "
-20-35,Female,Melody,Morning,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Pop,Morning,Uplifting and motivational,"While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Office hours, While Traveling, Workout session"
-20-35,Female,Pop,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,Office hours
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Male,Rap,Night,Uplifting and motivational,leisure time
-20-35,Female,classical,Night,Relaxation and stress relief,Workout session
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-Dec,Male,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Study Hours, While Traveling"
-20-35,Female,Electronic/Dance,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session"
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,"Office hours, While Traveling"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, While Traveling, leisure time"
-20-35,Female,Pop,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Morning,Relaxation and stress relief,"Office hours, While Traveling"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, leisure time"
-20-35,Female,Pop,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, Workout session, leisure time"
-20-35,Female,classical,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Social gatherings or parties,While Traveling
-20-35,Female,Melody,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, Workout session, leisure time"
-20-35,Male,Electronic/Dance,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Sadness or melancholy,leisure time
-20-35,Male,classical,Night,Relaxation and stress relief,While Traveling
-60+,Female,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, leisure time"
-20-35,Female,Pop,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","Office hours, While Traveling, Workout session, leisure time"
-20-35,Male,Pop,Night,"Relaxation and stress relief, Social gatherings or parties","Office hours, While Traveling"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Kpop,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time
-20-35,Female,All,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-Dec,Male,Pop,Morning,Relaxation and stress relief,While Traveling
-20-35,Male,Pop,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","Office hours, Study Hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time"
-20-35,Female,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational",leisure time
-20-35,Female,Melody,Night,Uplifting and motivational,leisure time
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Male,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time, "
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational",While Traveling
-20-Dec,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,Office hours
-20-35,Female,Rap,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,"Office hours, Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Uplifting and motivational,While Traveling
-20-35,Female,Melody,Morning,Uplifting and motivational,leisure time
-20-35,Female,Pop,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Electronic/Dance,Night,Social gatherings or parties,Workout session
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, leisure time"
-20-Dec,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational",leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Sadness or melancholy,"Office hours, While Traveling"
-20-35,Male,All,Night,"Uplifting and motivational, Social gatherings or parties",leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time
-20-35,Male,Melody,Afternoon,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session"
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,While Traveling
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",leisure time
-20-35,Female,classical,Afternoon,Uplifting and motivational,While Traveling
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,"Office hours, leisure time"
-20-35,Female,Electronic/Dance,Night,Relaxation and stress relief,leisure time
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, While Traveling, Workout session, leisure time"
-20-Dec,Female,Melody,Night,Sadness or melancholy,"While Traveling, leisure time"
-20-Dec,Female,Rap,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Rap,Night,Social gatherings or parties,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Afternoon,Uplifting and motivational,Workout session
-35-60,Male,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session"
-20-35,Female,Melody,Morning,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Electronic/Dance,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Sadness or melancholy,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,"Office hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Male,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, leisure time"
-20-35,Female,Pop,Night,Relaxation and stress relief,"Workout session, leisure time"
-20-35,Female,Pop,Night,Sadness or melancholy,"Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-Dec,Female,Melody,Night,Relaxation and stress relief,"Study Hours, Workout session, leisure time"
-20-35,Male,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Sadness or melancholy,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,Study Hours
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Social gatherings or parties",leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Afternoon,"Relaxation and stress relief, Social gatherings or parties","Office hours, While Traveling, "
-20-35,Male,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, leisure time"
-20-35,Female,Melody,Night,"Relaxation and stress relief, Social gatherings or parties",leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,"Office hours, leisure time"
-20-35,Male,Rock,Morning,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Afternoon,Relaxation and stress relief,leisure time
-20-35,Female,Electronic/Dance,Night,"Relaxation and stress relief, Uplifting and motivational",leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, leisure time"
-20-35,Female,"Classical & melody, dance",Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time
-20-35,Male,classical,Night,Relaxation and stress relief,"Office hours, While Traveling"
-20-35,Male,classical,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time
-20-35,Female,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session, leisure time"
-20-35,Female,Melody,Morning,Relaxation and stress relief,leisure time
-20-Dec,Others,Rap,Night,Sadness or melancholy,leisure time
-20-Dec,Female,classical,Morning,Relaxation and stress relief,Study Hours
-20-Dec,Female,Rap,Afternoon,Sadness or melancholy,"Study Hours, While Traveling"
-20-Dec,Female,Rap,Afternoon,Sadness or melancholy,While Traveling
-20-35,Female,Rap,Afternoon,Uplifting and motivational,While Traveling
-20-35,Female,Rap,Afternoon,Sadness or melancholy,While Traveling
-20-35,Others,Rap,Afternoon,Sadness or melancholy,While Traveling
-20-35,Female,classical,Afternoon,Sadness or melancholy,While Traveling
-20-35,Female,Rap,Morning,Uplifting and motivational,While Traveling
-35-60,Female,Rap,Afternoon,Sadness or melancholy,While Traveling
-35-60,Female,Rap,Afternoon,Sadness or melancholy,"Study Hours, Workout session"
-20-35,Others,Rap,Night,Uplifting and motivational,Study Hours
-20-35,Female,Electronic/Dance,Afternoon,Sadness or melancholy,Workout session
-20-Dec,Female,Rap,Afternoon,Sadness or melancholy,Workout session
-35-60,Female,Melody,Morning,Uplifting and motivational,Workout session
-20-35,Female,classical,Afternoon,Uplifting and motivational,Workout session
-20-35,Female,classical,Morning,Uplifting and motivational,"Study Hours, leisure time"
-20-35,Male,classical,Afternoon,Uplifting and motivational,While Traveling
-20-35,Female,Rap,Afternoon,Sadness or melancholy,"Study Hours, While Traveling"
-20-Dec,Male,classical,Afternoon,Sadness or melancholy,Workout session
-20-35,Others,Rap,Afternoon,"Relaxation and stress relief, Sadness or melancholy","Study Hours, While Traveling, leisure time"
-20-35,Female,classical,Night,"Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, leisure time"
-20-Dec,Female,Rap,Afternoon,"Uplifting and motivational, Social gatherings or parties","Office hours, Study Hours, Workout session"
-20-Dec,Female,Melody,Night,Sadness or melancholy,Study Hours
-20-Dec,Female,Melody,Afternoon,Uplifting and motivational,Workout session
-20-35,Male,Melody,Afternoon,Relaxation and stress relief,While Traveling
-20-35,Female,classical,Afternoon,"Relaxation and stress relief, Sadness or melancholy","Office hours, While Traveling, Workout session"
-20-35,Female,Melody,Afternoon,Sadness or melancholy,leisure time
-12-Jun,Others,Rap,Morning,Social gatherings or parties,Study Hours
-20-Dec,Male,classical,Afternoon,"Uplifting and motivational, Social gatherings or parties",While Traveling
-12-Jun,Others,classical,Afternoon,Uplifting and motivational,Workout session
-20-35,Female,Rap,Afternoon,Sadness or melancholy,leisure time
-20-35,Male,classical,Afternoon,Uplifting and motivational,Study Hours
-20-35,Male,Rap,Afternoon,Sadness or melancholy,While Traveling
-20-35,Female,classical,Afternoon,Sadness or melancholy,"Study Hours, Workout session"
-20-35,Female,Rap,Afternoon,Social gatherings or parties,While Traveling
-20-35,Female,Rap,Afternoon,Uplifting and motivational,"Office hours, While Traveling"
-20-Dec,Male,classical,Afternoon,Relaxation and stress relief,"While Traveling, leisure time"
-20-Dec,Female,Pop,Afternoon,Sadness or melancholy,While Traveling
-20-Dec,Others,classical,Afternoon,Uplifting and motivational,Study Hours
-20-Dec,Male,classical,Afternoon,Relaxation and stress relief,Study Hours
-20-35,Female,classical,Morning,Uplifting and motivational,"Office hours, While Traveling"
-20-35,Male,classical,Morning,Uplifting and motivational,Workout session
-20-35,Female,classical,Morning,Uplifting and motivational,"Office hours, Study Hours, While Traveling"
-20-Dec,Female,Rap,Morning,Relaxation and stress relief,While Traveling
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Study Hours, leisure time"
-20-35,Male,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",Study Hours
-20-35,Female,Melody,Night,Relaxation and stress relief,Office hours
-20-35,Female,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session"
-20-35,Female,Kpop,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, While Traveling, leisure time"
-20-35,Female,Melody,Night,Relaxation and stress relief,While Traveling
-20-35,Female,Pop,Morning,"Uplifting and motivational, Sadness or melancholy",While Traveling
-20-35,Female,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time"
-20-35,Female,Pop,Night,Relaxation and stress relief,leisure time
-20-35,Female,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Workout session, leisure time"
-20-35,Female,Pop,Night,"Relaxation and stress relief, Sadness or melancholy","Office hours,Study Hours, While Traveling, leisure time"
+Age,Gender,fav_music_genre
+20-35,0,Melody
+20-12,1,Rap
+35-60,2,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,"Classical & melody, dance"
+20-35,0,Melody
+20-35,0,classical
+20-35,1,Rock
+20-35,0,Pop
+20-12,1,Rap
+35-60,1,Old songs
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-12,1,Pop
+20-12,1,Pop
+20-35,0,Melody
+20-12,1,Rap
+20-35,0,Pop
+20-35,0,Melody
+20-12,0,Melody
+20-12,0,Pop
+20-12,0,Melody
+20-12,1,Pop
+20-12,0,Pop
+20-12,1,classical
+20-35,0,Melody
+20-35,1,Melody
+20-12,1,classical
+35-60,1,Melody
+20-35,0,Melody
+20-35,1,Electronic/Dance
+20-35,1,Melody
+20-12,0,Pop
+20-35,1,Rap
+20-35,0,Melody
+20-35,0,Pop
+20-12,0,All
+20-35,1,classical
+20-35,0,Melody
+20-35,0,Pop
+20-35,1,Pop
+20-35,1,classical
+20-35,1,Pop
+20-35,1,Melody
+20-35,0,Melody
+20-12,1,Rap
+20-35,1,Melody
+20-35,1,Melody
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Electronic/Dance
+20-35,0,Melody
+20-35,0,Melody
+20-12,0,Melody
+20-35,2,Rap
+20-35,0,Rap
+35-60,1,Pop
+20-12,0,Melody
+20-12,0,classical
+20-35,0,Melody
+20-12,0,Rap
+35-60,1,classical
+20-12,2,Melody
+20-35,0,Melody
+20-35,1,Rap
+20-12,1,Rap
+20-35,0,Melody
+20-35,0,Electronic/Dance
+35-60,2,classical
+20-35,0,Melody
+20-35,0,classical
+20-35,0,Melody
+20-12,0,Melody
+20-35,0,Melody
+20-35,1,Rap
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Pop
+20-35,1,Pop
+20-35,0,Melody
+20-35,0,Pop
+20-35,1,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Pop
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Kpop
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,classical
+20-35,1,All
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-12,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Electronic/Dance
+20-35,0,Melody
+20-35,1,Rap
+20-35,0,Melody
+20-35,1,Melody
+20-35,1,Rap
+35-60,1,Melody
+20-35,0,Melody
+20-35,1,Rock
+20-35,0,Pop
+20-35,1,Melody
+35-60,0,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,1,Pop
+20-12,1,Melody
+20-35,1,Melody
+20-35,0,Electronic/Dance
+20-35,0,Pop
+20-35,0,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,0,Melody
+20-35,1,Electronic/Dance
+20-35,1,classical
+20-35,1,Melody
+20-35,0,Melody
+20-35,1,Melody
+20-35,1,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-12,0,classical
+20-35,0,Rap
+20-12,0,classical
+20-12,0,Rap
+20-12,0,classical
+20-35,0,classical
+20-35,0,classical
+20-12,0,classical
+6-12,0,classical
+20-35,0,classical
+35-60,1,Melody
+20-12,1,Rap
+20-12,0,classical
+20-35,0,classical
+20-35,0,classical
+35-60,0,classical
+20-35,0,classical
+20-12,0,classical
+35-60,2,Electronic/Dance
+20-35,0,Rap
+20-35,2,classical
+35-60,0,Melody
+20-12,1,Melody
+35-60,1,Melody
+20-35,0,Melody
+20-35,1,trending songs random
+20-35,1,Melody
+35-60,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+35-60,0,Melody
+20-35,0,Electronic/Dance
+20-35,0,Melody
+20-35,0,Pop
+20-35,1,Melody
+20-35,1,Melody
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-35,1,classical
+20-35,1,Melody
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,classical
+20-35,0,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Melody
+20-35,1,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,1,Rock
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Rap
+20-35,1,Melody
+20-35,1,Pop
+20-35,1,Melody
+20-35,1,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,All
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-12,1,classical
+20-12,1,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,classical
+20-35,0,Pop
+20-35,1,All
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Rap
+20-35,0,Pop
+20-12,1,Pop
+20-35,0,Melody
+20-35,0,Electronic/Dance
+20-35,0,Pop
+20-35,0,Kpop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,classical
+20-12,0,classical
+20-35,0,classical
+20-12,0,Rap
+20-35,0,classical
+20-35,0,Rap
+20-12,0,classical
+20-12,0,Melody
+20-12,0,Rap
+20-35,0,classical
+20-35,0,classical
+20-35,0,Rap
+20-35,0,Pop
+20-35,2,classical
+20-35,0,classical
+20-35,0,Melody
+20-35,0,classical
+20-35,0,classical
+20-12,0,Rap
+20-12,0,classical
+20-35,0,classical
+35-60,0,classical
+35-60,0,Pop
+35-60,0,Melody
+20-35,0,classical
+20-12,0,Melody
+20-35,0,classical
+20-12,0,Rap
+20-35,0,Melody
+35-60,0,Rap
+20-35,0,Rap
+20-35,1,Melody
+20-35,0,Rap
+20-35,0,classical
+20-35,0,Melody
+20-35,0,classical
+20-35,0,Rap
+20-35,0,classical
+20-35,0,Rap
+20-35,0,Melody
+20-12,0,classical
+20-35,0,Melody
+20-35,2,classical
+20-12,0,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Rap
+20-12,0,classical
+20-12,0,classical
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,classical
+20-35,0,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Rap
+20-35,0,classical
+20-35,0,Melody
+20-12,1,Melody
+20-35,0,Electronic/Dance
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,classical
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,1,Electronic/Dance
+20-35,0,Melody
+20-35,1,classical
+60+,0,Melody
+20-35,0,Pop
+20-35,1,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Kpop
+20-35,0,All
+20-12,1,Pop
+20-35,1,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-12,0,Pop
+20-35,0,Melody
+20-35,0,Rap
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Electronic/Dance
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-12,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,All
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Melody
+20-35,0,classical
+20-35,0,Melody
+20-35,0,Electronic/Dance
+20-35,1,Melody
+20-12,0,Melody
+20-12,0,Rap
+20-35,0,Rap
+20-35,0,Melody
+20-35,0,Melody
+35-60,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Electronic/Dance
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-12,0,Melody
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,Rock
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Electronic/Dance
+20-35,0,Melody
+20-35,0,"Classical & melody, dance"
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,1,classical
+20-35,1,classical
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Melody
+20-12,2,Rap
+20-12,0,classical
+20-12,0,Rap
+20-12,0,Rap
+20-35,0,Rap
+20-35,0,Rap
+20-35,2,Rap
+20-35,0,classical
+20-35,0,Rap
+35-60,0,Rap
+35-60,0,Rap
+20-35,2,Rap
+20-35,0,Electronic/Dance
+20-12,0,Rap
+35-60,0,Melody
+20-35,0,classical
+20-35,0,classical
+20-35,1,classical
+20-35,0,Rap
+20-12,1,classical
+20-35,2,Rap
+20-35,0,classical
+20-12,0,Rap
+20-12,0,Melody
+20-12,0,Melody
+20-35,1,Melody
+20-35,0,classical
+20-35,0,Melody
+6-12,2,Rap
+20-12,1,classical
+6-12,2,classical
+20-35,0,Rap
+20-35,1,classical
+20-35,1,Rap
+20-35,0,classical
+20-35,0,Rap
+20-35,0,Rap
+20-12,1,classical
+20-12,0,Pop
+20-12,2,classical
+20-12,1,classical
+20-35,0,classical
+20-35,1,classical
+20-35,0,classical
+20-12,0,Rap
+20-35,0,Melody
+20-35,1,Melody
+20-35,0,Melody
+20-35,0,Melody
+20-35,0,Kpop
+20-35,0,Melody
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Pop
+20-35,0,Melody
+20-35,0,Pop
